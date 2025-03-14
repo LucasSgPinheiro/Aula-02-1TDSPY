@@ -10,4 +10,11 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
+## 🌱 Tecnologias que estou aprendendo:
+ 
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
  
